@@ -1,6 +1,6 @@
 # Sampling
 Sampling is the process of selecting a subset of elements from a larger population to represent and analyze, often used in research or statistics to draw conclusions about the entire group based on the sampled data.
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fihatepsm.com%2Fblog%2Fsampling&psig=AOvVaw1Q3WlcQuQjRwvP9Nu4OUG8&ust=1707212286497000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj-5uLzk4QDFQAAAAAdAAAAABAD)
+![ssss](https://www.google.com/url?sa=i&url=https%3A%2F%2Fihatepsm.com%2Fblog%2Fsampling&psig=AOvVaw1Q3WlcQuQjRwvP9Nu4OUG8&ust=1707212286497000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj-5uLzk4QDFQAAAAAdAAAAABAD)
 
 Dataset
 The dataset used in this project is available in Creditcard_data.csv. It contains the following columns:
